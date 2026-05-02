@@ -69,7 +69,7 @@ During this project I worked through several DevOps-related issues including:
 - Docker permissions inside Jenkins container
 - Installing Docker and kubectl in Jenkins
 - Kubernetes kubeconfig configuration
-- TLS and Minikube networking issues
+- Minikube networking issues
 - Git branch mismatch (main/master)
 
 ---
